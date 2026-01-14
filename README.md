@@ -18,13 +18,13 @@ This portfolio contains my machine learning and data analysis projects.
 
 ## Projects
 - Time series forecasting project
-https://github.com/utkuseyithanoglu/time-series-analysis
+ https://github.com/utkuseyithanoglu/time-series-analysis
 
 - Wine Quality Classification  
-  https://github.com/utkuseyithanoglu/wine-quality-classification
+ https://github.com/utkuseyithanoglu/wine-quality-classification
 
 - Breast Cancer Classification  
- https://github.com/utkuseyithanoglu/breast-cancer-classification
+  https://github.com/utkuseyithanoglu/breast-cancer-classification
 
 ## Skills
 - Python
