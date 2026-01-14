@@ -17,6 +17,8 @@ This portfolio contains my machine learning and data analysis projects.
 - SB Bilişim – IT Intern (2023)
 
 ## Projects
+- Time series forecasting project
+  https://github.com/utkuseyithanoglu/time-series-analysis
 
 - Wine Quality Classification  
   https://github.com/utkuseyithanoglu/wine-quality-classification
