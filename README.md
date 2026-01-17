@@ -18,6 +18,8 @@ This portfolio contains my machine learning and data analysis projects.
 
 ## Projects
 
+- Sms spam clsassification: https://github.com/utkuseyithanoglu/sms-spam-classification-naive-bayes
+
 - Time series forecasting project: https://github.com/utkuseyithanoglu/time-series-analysis
 
 - Wine Quality Classification: https://github.com/utkuseyithanoglu/wine-quality-classification
