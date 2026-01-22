@@ -18,6 +18,7 @@ This portfolio contains my machine learning and data analysis projects.
 
 ## Projects
 
+- api csv sql project : https://github.com/utkuseyithanoglu/python-api-sql-project
 - Sms spam clsassification: https://github.com/utkuseyithanoglu/sms-spam-classification-naive-bayes
 
 - Time series forecasting project: https://github.com/utkuseyithanoglu/time-series-analysis
