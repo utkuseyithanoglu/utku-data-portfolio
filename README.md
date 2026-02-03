@@ -26,6 +26,7 @@ This portfolio contains my machine learning and data analysis projects.
 - Wine Quality Classification: https://github.com/utkuseyithanoglu/wine-quality-classification
 
 - Breast Cancer Classification: https://github.com/utkuseyithanoglu/breast-cancer-classification
+- breast cancer demo https://breast-cancer-app-utku15.streamlit.app
 
 ## Skills
 - Python
